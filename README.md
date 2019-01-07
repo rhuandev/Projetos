@@ -3,13 +3,17 @@ Repositorio contendo todos os projetos que já desenvolvi.
 Todos tem autorização para serem divulgados.
 :)
 
-Linguagens dominadas:
-Java - Basico |
-HTML - Intermediario |
-CSS - Basico |
-JS - Basico |
+Material disponibilizado:
+USJT - Universidade São Judas Tadeu |
+Udemy - Diversos cursos |
+
+Aprendido até agora:
+Java - Basico (Variaveis, OO, Conexão com Banco) |
+HTML - Intermediario (CSS, JS, Bootstrap, jQuery)|
 
 Estudando atualmente:
 Java |
 Node.js | 
 Express.js |
+
+
