@@ -15,12 +15,9 @@ public class Celular {
 	}
 	
 	//metodos
-	public void ligar(boolean ligado) {
-		ligado = true;
-	}
-	
-	public void desligar(boolean ligado) {
-		ligado = false;
+	public void trocarCor(String novaCor) {
+		cor = novaCor;
+		
 	}
 
 	//getters e setters
@@ -55,26 +52,49 @@ public class Celular {
 	public void setMemoria(int memoria) {
 		this.memoria = memoria;
 	}
-	
+
 	//metodo main
 	public static void main(String args[]) {
+
 		
 		//objeto 1
 		Celular celular1 = new Celular("Samsung Galaxy", "S9", "Preto", 64);
+		System.out.println("------------------------------------------------"
+							+ "Celular:"
+							+ "\nMarca: "+celular1.getMarca()
+							+ "\nModelo: "+ celular1.getModelo()
+							+ "\nCor: "+celular1.getCor()
+							+ "\nMemoria: "+celular1.getMemoria() + "gb"
+							+ "\n------------------------------------------------");
+		
+		celular1.trocarCor("Azul");
+		System.out.println("Trocando a cor do " + celular1.getMarca() + " " + celular1.getModelo() + "\n------------------------------------------------");
+		
 		System.out.println("Celular:"
 							+ "\nMarca: "+celular1.getMarca()
 							+ "\nModelo: "+ celular1.getModelo()
 							+ "\nCor: "+celular1.getCor()
-							+ "\nMemoria: "+celular1.getMemoria() + "gb");
+							+ "\nMemoria: "+celular1.getMemoria() + "gb"
+							+ "\n------------------------------------------------");
 		
 		//objeto 2
 		Celular celular2 = new Celular("Iphone", "7", "Branco", 32);
-		System.out.println("\nCelular:"
+		System.out.println("Celular:"
 							+ "\nMarca: "+celular2.getMarca()
 							+ "\nModelo: "+ celular2.getModelo()
 							+ "\nCor: "+celular2.getCor()
-							+ "\nMemoria: "+celular2.getMemoria() + "gb");
+							+ "\nMemoria: "+celular2.getMemoria() + "gb"
+							+ "\n------------------------------------------------");
 		
+		celular2.trocarCor("Vermelho");
+		System.out.println("Trocando a cor do " + celular2.getMarca() + " " + celular2.getModelo() + "\n------------------------------------------------");
+		
+		System.out.println("Celular:"
+				+ "\nMarca: "+celular2.getMarca()
+				+ "\nModelo: "+ celular2.getModelo()
+				+ "\nCor: "+celular2.getCor()
+				+ "\nMemoria: "+celular2.getMemoria() + "gb"
+				+ "\n------------------------------------------------");
 	}
 	
 }
