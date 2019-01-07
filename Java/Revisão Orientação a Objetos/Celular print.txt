@@ -1,0 +1,29 @@
+------------------------------------------------
+Celular:
+Marca: Samsung Galaxy
+Modelo: S9
+Cor: Preto
+Memoria: 64gb
+------------------------------------------------
+Trocando a cor do Samsung Galaxy S9
+------------------------------------------------
+Celular:
+Marca: Samsung Galaxy
+Modelo: S9
+Cor: Azul
+Memoria: 64gb
+------------------------------------------------
+Celular:
+Marca: Iphone
+Modelo: 7
+Cor: Branco
+Memoria: 32gb
+------------------------------------------------
+Trocando a cor do Iphone 7
+------------------------------------------------
+Celular:
+Marca: Iphone
+Modelo: 7
+Cor: Vermelho
+Memoria: 32gb
+------------------------------------------------

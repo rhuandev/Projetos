@@ -60,7 +60,7 @@ public class Celular {
 		//objeto 1
 		Celular celular1 = new Celular("Samsung Galaxy", "S9", "Preto", 64);
 		System.out.println("------------------------------------------------"
-							+ "Celular:"
+							+ "\nCelular:"
 							+ "\nMarca: "+celular1.getMarca()
 							+ "\nModelo: "+ celular1.getModelo()
 							+ "\nCor: "+celular1.getCor()
