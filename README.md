@@ -8,7 +8,6 @@ Java - Basico |
 HTML - Intermediario |
 CSS - Basico |
 JS - Basico |
-Bootstrap - Basico |
 
 Estudando atualmente:
 Java |
