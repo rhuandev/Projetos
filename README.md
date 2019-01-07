@@ -4,13 +4,13 @@ Todos tem autorização para serem divulgados.
 :)
 
 Linguagens dominadas:
-Java - Basico
-HTML - Intermediario
-CSS - Basico
-JS - Basico
-Bootstrap - Basico
+Java - Basico |
+HTML - Intermediario |
+CSS - Basico |
+JS - Basico |
+Bootstrap - Basico |
 
 Estudando atualmente:
-Java
-Node.js
-Express.js
+Java |
+Node.js | 
+Express.js |
