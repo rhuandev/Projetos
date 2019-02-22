@@ -13,7 +13,7 @@ public class Controller {
 	public static void main (String[] args) {
 		new Controller (new ViewImpl(), new IModelImpl()).startMenu();
 
-	}					//FAZER SUAVIEW()
+	}					
 	
 	private static IView view;
 	private IModel model;
@@ -45,7 +45,11 @@ public class Controller {
 		int opcao;
 		view.mostrarMenu();
 		opcao = view.capturarOpcao();
-
+		
+		if(opcao == 3) {
+			view.mostrarAteLogo();
+		}
+		
 		while(opcao != 3){
 			if(opcao > 3 || opcao <= 0) {
 				view.mostrarMenssagemDeErro();
@@ -63,6 +67,6 @@ public class Controller {
 				}
 			}
 		} 
-		opcao = view.capturarOpcao();
+		
 	}
 }
