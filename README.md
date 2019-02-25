@@ -13,7 +13,10 @@ HTML - Intermediario (CSS, JS, Bootstrap, jQuery)|
 
 Estudando atualmente:
 Java |
+Javascript |
 Node.js | 
 Express.js |
+Android |
+Python |
 
 
