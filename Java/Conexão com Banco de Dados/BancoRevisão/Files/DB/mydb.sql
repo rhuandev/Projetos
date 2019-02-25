@@ -1,0 +1,13 @@
+CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
+USE `mydb` ;
+
+CREATE TABLE IF NOT EXISTS `mydb`.`cliente` (
+  `idcliente` INT NOT NULL AUTO_INCREMENT,
+  `clienteNome` VARCHAR(55) NOT NULL,
+  `clienteTel` INT NOT NULL,
+  PRIMARY KEY (`idcliente`))
+ENGINE = InnoDB;
+
+SELECT * FROM cliente;
+DELETE FROM CLIENTE WHERE idcliente = 1;
+DELETE FROM CLIENTE WHERE idcliente = 2;

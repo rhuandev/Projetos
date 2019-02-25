@@ -1,0 +1,19 @@
+Lista todos os clientes
+
+---------------------
+id: 1
+Nome: Testudo Testando
+Telefone: 1112344321
+---------------------
+
+---------------------
+id: 2
+Nome: Testoso Testando
+Telefone: 1143211234
+---------------------
+
+---------------------
+id: 3
+Nome: Testoroso Testão
+Telefone: 1112388321
+---------------------
