@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+		<script language="javascript" src="script.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+</head>
+
+<body>
+
+<div class="position-central">
+	<div class="lanterna-luz" id="luz" style="visibility: hidden"></div>
+	<div class="lanterna-topo"></div>
+	<div class="lanterna-topo-baixo"></div>
+	<div class="lanterna-corpo"><a class="botao" id="botao" onclick="ligaDesliga(); gastaBateria();"></a></div>
+
+	<div class="bateria-info">
+	<p class="bateria-fonte" id="bateria-level">100%</p>
+	<a class="botao-bateria" onclick="trocaBateria()">Trocar bateria</a>
+	</div>
+	
+</div>
+
+</body>
