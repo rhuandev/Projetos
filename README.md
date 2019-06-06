@@ -9,9 +9,11 @@ Udemy - Diversos cursos |
 
 Aprendido até agora:
 
-Back-End - Basico (Java - Basico(Variaveis, OO, Conexão com Banco), Typescript - Basico(Variaveis, funções, anotações) |
+Back-End - Basico (Java - Basico(Variaveis, OO, Conexão com Banco) |
 
-Front-End - Intermediario (CSS, JS, Bootstrap, jQuery, Flexbox) |
+Front-End - Intermediario (HTML, CSS, JS, Bootstrap, jQuery, Flexbox) |
+
+Mobile - Ionic(Typescript - Basico(Variaveis, funções, anotações)) |
 
 Estudando atualmente:
 Java |
@@ -19,7 +21,8 @@ Python |
 Ionic |
 Typescript |
 Javascript |
-Node.js | 
+Vue.js |
+Node.js |
 Express.js |
 
 
