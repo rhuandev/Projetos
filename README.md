@@ -9,15 +9,16 @@ Udemy - Diversos cursos |
 
 Aprendido até agora:
 Java - Basico (Variaveis, OO, Conexão com Banco) |
-HTML - Intermediario (CSS, JS, Bootstrap, jQuery)|
+HTML - Intermediario (CSS, JS, Bootstrap, jQuery, Flexbox)|
 
 Estudando atualmente:
 Java |
+Python |
+Ionic |
 Javascript |
 Node.js | 
 Express.js |
-JSP |
-Android |
-Python |
+
+
 
 
