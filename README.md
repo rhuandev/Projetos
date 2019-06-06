@@ -1,7 +1,7 @@
 # Projetos
-Repositorio contendo todos os projetos que já desenvolvi. 
-Todos tem autorização para serem divulgados.
-:)
+##Repositorio contendo todos os projetos que já desenvolvi. 
+##Todos tem autorização para serem divulgados.
+##:)
 
 Material disponibilizado:
 USJT - Universidade São Judas Tadeu |
@@ -9,11 +9,11 @@ Udemy - Diversos cursos |
 
 Aprendido até agora:
 
-Back-End - Basico (Java - Basico(Variaveis, OO, Conexão com Banco) |
+Back-End - Basico (Java(Variaveis, OO, Conexão com Banco), SQL Basico |
 
 Front-End - Intermediario (HTML, CSS, JS, Bootstrap, jQuery, Flexbox) |
 
-Mobile - Ionic(Typescript - Basico(Variaveis, funções, anotações)) |
+Mobile - Basico (Ionic, Typescript(Variaveis, funções, anotações)) |
 
 Estudando atualmente:
 Java |
@@ -24,6 +24,7 @@ Javascript |
 Vue.js |
 Node.js |
 Express.js |
+MongoDB |
 
 
 
