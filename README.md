@@ -8,13 +8,15 @@ USJT - Universidade São Judas Tadeu |
 Udemy - Diversos cursos |
 
 Aprendido até agora:
-Java - Basico (Variaveis, OO, Conexão com Banco) |
-HTML - Intermediario (CSS, JS, Bootstrap, jQuery, Flexbox)|
+Back-End - Basico (Java - Basico(Variaveis, OO, Conexão com Banco), Typescript - Basico(Variaveis, funções, anotações) |
+
+Front-End - Intermediario (CSS, JS, Bootstrap, jQuery, Flexbox) |
 
 Estudando atualmente:
 Java |
 Python |
 Ionic |
+Typescript
 Javascript |
 Node.js | 
 Express.js |
