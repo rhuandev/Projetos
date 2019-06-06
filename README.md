@@ -1,7 +1,7 @@
 # Projetos
-##Repositorio contendo todos os projetos que já desenvolvi. 
-##Todos tem autorização para serem divulgados.
-##:)
+# Repositorio contendo todos os projetos que já desenvolvi. 
+# Todos tem autorização para serem divulgados.
+# :)
 
 Material disponibilizado:
 USJT - Universidade São Judas Tadeu |
