@@ -16,15 +16,9 @@ Front-End - Intermediario (HTML, CSS, JS, Bootstrap, jQuery, Flexbox) |
 Mobile - Basico (Ionic, Typescript(Variaveis, funções, anotações)) |
 
 Estudando atualmente:
-Java |
-Python |
 Ionic |
 Typescript |
 Javascript |
-Vue.js |
-Node.js |
-Express.js |
-MongoDB |
 
 
 
